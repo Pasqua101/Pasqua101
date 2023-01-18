@@ -13,7 +13,12 @@ pursing a career in this field.
 - 😄 Pronouns: He/Him <br>
 - ⚡ Fun fact: Huge anime fan, history nerd and gamer. <br>
 
-<h4>I can be conatcted through these routes</h4>
+<br>
+<p>
+Other than the Python code and Java code I have developed from high school, all other code is not to be copied pasted to solve homework. Since it violates academic integrity. Because it's impossible to stop people from looking at my answers, I encourage you to analyze the code and understand how it works before defaulting on the option of copy paste.
+ </p>
+
+<h4>I can be conatcted through these routes:</h4>
 	
 <p> Personal Email: <a href="mailto:marco.pasqua03@gmail.com">marco.pasqua03@gmail.com</a> </p>
 <p> School Email: <a href="mailto:mpasqua@myseneca.ca">mpasqua@myseneca.ca</a> </p>
