@@ -2,14 +2,14 @@
 
 <!--
 **Pasqua101/Pasqua101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
-<h3>I'm Marco, a second year Computer Programming and Analysist student at Seneca College. </h3>
+<h3>I'm Marco, a third year Computer Programming and Analysist student at Seneca College. </h3>
 
 <p>On here, you can find some of my current projects from Seneca. As well as some of my older projects from high school, which first made me interested in 
 pursing a career in this field.
 </p>
 
-- 🔭 I’m currently working on Python Algorithms, as well as renewing my knownledge in Java, JavaScript, HTML and CSS. <br>
-- 🌱 I’m currently learning algorithms in Python, IT Project Management, web development. <br>
+- 🔭 I’m currently working on renewing my knownledge in Java, JavaScript, HTML and CSS, for the new academic year. <br>
+- 🌱 I’m preparing to learn Android app development. <br>
 - 😄 Pronouns: He/Him <br>
 - ⚡ Fun fact: History buff and video game enthusiast <br>
 
