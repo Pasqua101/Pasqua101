@@ -8,10 +8,10 @@
 pursing a career in this field.
 </p>
 
-- 🔭 I’m currently working on Python Algorithms, as well as renewing my knownledge in Java, HTML and CSS. <br>
+- 🔭 I’m currently working on Python Algorithms, as well as renewing my knownledge in Java, JavaScript, HTML and CSS. <br>
 - 🌱 I’m currently learning algorithms in Python, IT Project Management, web development. <br>
 - 😄 Pronouns: He/Him <br>
-- ⚡ Fun fact: Huge anime fan, history nerd and gamer. <br>
+- ⚡ Fun fact: History buff and video game enthusiast <br>
 
 <br>
 <p>
