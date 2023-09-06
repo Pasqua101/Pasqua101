@@ -8,8 +8,8 @@
 pursing a career in this field.
 </p>
 
-- 🔭 I’m currently working on renewing my knownledge in Java, JavaScript, HTML and CSS, for the new academic year.<br>
-- 🌱 I’m preparing to learn Android app development. <br>
+- 🔭 I’m currently working on renewing my knownledge in JavaScript, HTML and CSS.<br>
+- 🌱 I’m preparing to learn Android app development and open source development. <br>
 - 😄 Pronouns: He/Him <br> 
 - ⚡ Fun fact: History buff and video game enthusiast. <br>
 
