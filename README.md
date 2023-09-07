@@ -9,7 +9,7 @@ pursing a career in this field.
 </p>
 
 - 🔭 I’m currently working on renewing my knownledge in JavaScript, HTML and CSS.<br>
-- 🌱 I’m preparing to learn Android app development and open source development. <br>
+- 🌱 I’m learning Android app development and Desktop Development with Java, as well as open source development. <br>
 - 😄 Pronouns: He/Him <br> 
 - ⚡ Fun fact: History buff and video game enthusiast. <br>
 
@@ -22,3 +22,5 @@ Other than the Python code and Java code I have developed from high school, all 
 	
 <p> Personal Email: <a href="mailto:marco.pasqua03@gmail.com">marco.pasqua03@gmail.com</a> </p>
 <p> School Email: <a href="mailto:mpasqua@myseneca.ca">mpasqua@myseneca.ca</a> </p>
+
+<p> You can also check out my blog at https://dev.to/pasqua101</p>
