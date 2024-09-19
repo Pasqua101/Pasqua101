@@ -4,7 +4,7 @@
 **Pasqua101/Pasqua101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 <h3>I'm Marco, a third year Computer Science student at Ontario Tech Univeristy. </h3>
 
-<p>On here, you can find some of my previous projects from Seneca. As well as some of my older projects from high school, which first made me interested in 
+<p>On here, you can find some of my previous projects from Seneca College. As well as some of my older projects from high school, which first made me interested in 
 pursing a career in this field.
 </p>
 
