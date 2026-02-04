@@ -8,7 +8,7 @@
 pursing a career in this field.
 </p>
 
-- 🔭 I’m currently working on learning Git, Unix, and Discrete Math.<br>
+- 🔭 I’m currently working on learning software security and compilers. <br>
 - 🌱 I’m learning Mobile app development. <br>
 - 😄 Pronouns: He/Him <br> 
 - ⚡ Fun fact: History buff and video game enthusiast. <br>
